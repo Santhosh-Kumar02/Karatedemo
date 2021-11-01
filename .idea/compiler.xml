@@ -9,5 +9,8 @@
         <module name="Karatedemo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Karatedemo" target="15" />
+    </bytecodeTargetLevel>
   </component>
 </project>
